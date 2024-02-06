@@ -15,10 +15,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="React"/></code>
 
 ## 🚀 Estudando
-
-        <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
-        <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
-        <a href="https://stackshare.io/rubymine" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rubymine/rubymine-original.svg" alt="java" width="40" height="40" /></a>
+<a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="32" height="32" /></a>
 
 
 ---
