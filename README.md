@@ -29,6 +29,12 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasnunes/" alt="LinkedIn"/></a>
 </p>
 
+<div align="center">
+  
+  <img height="20" src="https://wakatime.com/badge/user/1660ecce-b966-4a28-8c5f-ae0c1eec3a0c.svg"/>
+<img height="20" src="https://komarev.com/ghpvc/?username=Jonathanbez"/>
+</div>
+
 <table>
   <tr>
     <td>
