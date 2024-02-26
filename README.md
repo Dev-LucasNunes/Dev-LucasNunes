@@ -29,10 +29,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasnunes/" alt="LinkedIn"/></a>
 </p>
 
-<div align="center">
-  <img height="20" src="https://wakatime.com/badge/user/1660ecce-b966-4a28-8c5f-ae0c1eec3a0c.svg"/>
-  <img height="20" src="https://komarev.com/ghpvc/?username=Dev-LucasNunes"/>
-</div>
 
 <table>
   <tr>
@@ -53,3 +49,8 @@
     </td>
   </tr>
 </table>
+
+<p align="left">
+<a href="https://wakatime.com/@ee59637f-05a7-4cac-9ffb-31ee39d5ebc4"><img src="https://wakatime.com/badge/user/ee59637f-05a7-4cac-9ffb-31ee39d5ebc4.svg" alt="Total time coded since Oct 10 2022" /></a>
+</p>
+
