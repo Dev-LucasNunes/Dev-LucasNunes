@@ -18,7 +18,7 @@
 <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="32" height="32" /></a>
 
 
----
+
 
 <p align="left">
   Connect with me: ⤵️
