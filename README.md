@@ -3,7 +3,7 @@
 <h1 align="left"> 
   Olá, eu sou <strong> Lucas Nunes <strong><br>
 </h1>
-
+kkkk
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
