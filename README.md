@@ -1,7 +1,7 @@
 <img src="https://github.com/Dev-LucasNunes/Dev-LucasNunes/raw/main/download.gif" alt="Software Developer" min-width="400px" max-width="400px" width="400px" align="right" border-radius>
 
 <h1 align="left"> 
-  Olá, eu sou <strong> LucasNunes <strong><br>
+  Olá, eu sou <strong> Lucas Nunes <strong><br>
 </h1>
     
 ## 🚀 Minhas Skills
